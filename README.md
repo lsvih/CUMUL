@@ -21,3 +21,9 @@ If you find this method helpful for your research, please cite this paper:
 Python 3.5 +
 sklearn
 ```
+
+### Dataset
+
+Download `foreground.tar.gz` and `background.tar.gz` from [`http://lorre.uni.lu/~andriy/zwiebelfreunde/`](http://lorre.uni.lu/~andriy/zwiebelfreunde/) and extract files.
+
+Then config your dataset path at `main.py`
