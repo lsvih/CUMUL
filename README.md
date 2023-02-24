@@ -4,6 +4,14 @@ Implementation of "Website Fingerprinting at Internet Scale"
 
 Reproduce from original code of paper's author: [`http://lorre.uni.lu/~andriy/zwiebelfreunde/`](http://lorre.uni.lu/~andriy/zwiebelfreunde/)
 
+------
+
+*Update at Feb. 2023*
+
+Since the original dataset link is no longer available, please download the dataset from the [Web Archive](https://web.archive.org/web/20180716181420/http://lorre.uni.lu/~andriy/zwiebelfreunde/)
+
+------
+
 If you find this method helpful for your research, please cite this paper:
 
 ```
